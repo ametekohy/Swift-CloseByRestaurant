@@ -1,4 +1,4 @@
-# MAD - DIA1 : CloseByRestaurant
+# Swift : CloseByRestaurant
 
 Used Swift frameworks | 
 ------------ | 
